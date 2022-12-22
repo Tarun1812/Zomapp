@@ -1,0 +1,33 @@
+.mainsearch{
+    border: 1px solid black;
+    height: 400px;
+    background-image: url('https://i.ibb.co/NVQxPB6/food-Wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+}
+#logo{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 10%;
+    height: 100px;
+    margin-top: 5%;
+    background-color: aliceblue;
+    margin-left: 45%;
+    text-align: center;
+}
+.searchbox{
+    /* border: 1px solid rgb(244, 239, 239); */
+    width: 45%;
+    height: 50px;
+    margin: 35px 390px;
+}
+.city select{
+    border: 1px solid white;
+    width: 45%;
+    height: 50px;
+}
+.cityrest select{
+    border: 1px solid white;
+    width: 53.7%;
+    height: 50px;
+}

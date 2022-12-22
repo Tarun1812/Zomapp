@@ -1,0 +1,28 @@
+.quicksearch{
+    /* border: 1px solid black; */
+    height: auto;
+   
+}
+.card{
+    /* border: 1px solid black; */
+    width: 28%;
+    height: 212px;
+    margin-left: 4%;
+    margin-top: 3%;
+    /* display: flex; */
+    float: left;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;;
+}
+.cardImg{
+    /* border: 1px solid black; */
+    width: 52%;
+    height: 212px;
+}
+.cardtxt{
+    /* border: 1px solid black; */
+    width: 53.2%;
+    height: 212px;
+    margin-left: 49%;
+    margin-top: -42%;
+    text-align: center;
+}
